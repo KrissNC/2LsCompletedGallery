@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Lato:ital,wght@0,400;1,300;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index2.css" />
+    <title>Laurence</title>
+  </head>
+  <body>
+    <!-- Main Content -->
+
+      <div id="mainContent">
+        <nav>    
+          <ul>
+          <li><a href="#">A mon sujet</a></li>
+          <li><a href="#">Ma peinture</a></li>
+          <li><a href="#">Ma poésie</a></li>
+          </ul>
+        </nav>
+        
+        <section id="medail"></section>
+        <section class="Title">
+          <h1>Laurence "2L" Le Meut</h1>
+          <h2>La douceur et l'espoir</h2>
+        </section>
+        <section class="intro">
+          <p>
+            "Je vois le monde comme une éternelle source d'inspiration et de joie."
+          </p>
+        </section>
+
+        <section class="preFooter">
+          <p>
+          Puisse mon travail vous apporter paix et réconfort.
+          </p>
+        </section>
+
+      </div>
+      <!-- Footer -->
+      <!-- <footer class="footer">
+        <p>(C) Christian Neveu 2020</p>
+      </footer> -->
+    </main>
+  </body>
+</html>

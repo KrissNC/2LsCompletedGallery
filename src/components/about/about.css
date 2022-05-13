@@ -1,0 +1,26 @@
+.main, .header, .footer {
+        margin: 0 auto;
+        padding: 0;
+       /* padding: rem-calc(20); */
+        max-width: 1200px;
+        /* min-width: 320px; */
+        color: #ffffff;
+        padding-left : 20px;
+        padding-right: 20px;
+        background-color : #358b55;
+        /* background-color : yellow; */
+
+    }
+.main {
+    height:100vh;
+}
+
+.main>h1{
+    padding-top:20px;
+    padding-bottom:20px;
+    font-size: 46px;
+}
+
+.main>p{
+    line-height: 2.8vh;
+}

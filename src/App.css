@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Lato:ital@1&display=swap');
+
+*{
+	margin: 0;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body {
+    background-color: #b7e6a9; 
+    /* min-width:320px; */
+}
+
+h1 {
+    text-shadow: 3px 3px 3px black;
+    font-family: 'Caveat', cursive;
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 2.4em;
+}
+
+
